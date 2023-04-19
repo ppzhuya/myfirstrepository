@@ -1,0 +1,2 @@
+hello
+this is my fist txt to practice my git skill
